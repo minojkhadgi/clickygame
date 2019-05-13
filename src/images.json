@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Ronaldo",
+      "image": "https://images.performgroup.com/di/library/GOAL/c0/d4/cristiano-ronaldo-juventus-2018-19_1manyxbb37ksu1orsj3jgf4765.jpg?t=538421993",
+      "state": 0
+    },
+    {
+      "id": 2,
+      "name": "Messi",
+      "image": "https://d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/entry/2015-12-21/messi.png?pw=1200",
+      "state": 0
+    },
+    {
+      "id": 3,
+      "name": "Salah",
+      "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/68/thumb_67015_default_news_size_5.jpeg",
+      "state": 0
+    },
+    {
+      "id": 4,
+      "name": "Neymar",
+      "image": "https://media.gettyimages.com/photos/neymar-jr-of-brazil-poses-during-the-official-fifa-world-cup-2018-picture-id972647300?s=2048x2048",
+      "state": 0
+    },
+    {
+      "id": 5,
+      "name": "Mane",
+      "image": "https://images.performgroup.com/di/library/GOAL/cc/8f/sadio-mane-liverpool-2018-19_1calx8vhkpq2f1puxex84m74qv.jpg?t=-1168931034&quality=90&w=1280",
+      "state": 0
+    },
+    {
+      "id": 6,
+      "name": "Kaka",
+      "image": "https://i.dailymail.co.uk/i/pix/2015/03/24/01/26EF8B8F00000578-3008351-image-a-31_1427159688833.jpg",
+      "state": 0
+    },
+    {
+      "id": 7,
+      "name": "Beckham",
+      "image": "https://media.gq.com/photos/59fbb6f35d4eda3d0c65bb67/master/pass/lookbook-david-beckham.png",
+      "state": 0
+    },
+    {
+      "id": 8,
+      "name": "Lampard",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2017/08/BTSPORT_PR_FL.jpg",
+      "state": 0
+    },
+    {
+      "id": 9,
+      "name": "Gerrard",
+      "image": "https://cdn.hitc-s.com/i/1426/rangers_manager_steven_gerrard_is_seen_during_the_scottish_premi_1199754.jpg",
+      "state": 0
+    },
+    {
+      "id": 10,
+      "name": "Henry",
+      "image": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2018/07/sp-henry-a-20180718-870x580.jpg",
+      "state": 0
+    },
+    {
+      "id": 11,
+      "name": "Rooney",
+      "image": "https://www.washingtonpost.com/resizer/2Ac-QjfbSm4zj8NGvTUOa5ce5Lo=/768x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLJJFUR25ZEHFFTXYBRFQPJQOU.jpg",
+      "state": 0
+    },
+    {
+      "id": 12,
+      "name": "Owen",
+      "image": "https://tmssl.akamaized.net/images/portrait/originals/1397-1476361136.jpg",
+      "state": 0
+    }
+  ]
